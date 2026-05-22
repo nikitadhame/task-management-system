@@ -1,0 +1,7 @@
+[
+  {
+    "Namespace": "aws:elasticbeanstalk:application:environment",
+    "OptionName": "MONGO_URI",
+    "Value": "mongodb+srv://vijaydhame23_db_user:Pass1234@cluster0.f5jaupa.mongodb.net/TeamTaskManager?appName=Cluster0"
+  }
+]
